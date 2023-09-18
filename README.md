@@ -4,6 +4,9 @@ Este sistema ha sido meticulosamente desarrollado por un equipo de estudiantes d
 
 Nuestro enfoque se centra en la optimización de la gestión de la información, buscando elevar los estándares de facilidad y confiabilidad en dicho proceso. Aspiramos a brindar un nivel de control superior sobre los datos, asegurando su integridad y disponibilidad en todo momento. Además, tenemos como propósito primordial ofrecer un servicio de la más alta calidad a la sociedad beneficiaria, cumpliendo con los más altos estándares de profesionalismo y eficacia en la ejecución de nuestro proyecto.
 
+
+
+## Instalación
 ## Requisitos Previos
 
 - **Python**: Asegúrate de tener Python instalado. Puedes descargarlo desde [python.org](https://www.python.org/downloads/) y seguir las instrucciones de instalación.
@@ -26,7 +29,7 @@ Nuestro enfoque se centra en la optimización de la gestión de la información,
 
 6. Activa el Entorno de MongoDB abriendo una nueva consola o PowerShell y ejecutando el comando `mongod`.
 
-7. Regresa a la consola anterior y, en el mismo entorno virtual, instala las dependencias del proyecto con el comando pip install -r requirements.txt. 
+7. Regresa a la consola anterior y, en el mismo entorno virtual, instala las dependencias del proyecto con el comando  `pip install -r requirements.txt`.  
 
 ## Ejecución
 
