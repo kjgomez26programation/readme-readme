@@ -37,4 +37,9 @@ Nuestro enfoque se centra en la optimización de la gestión de la información,
 
 2. Abre tu navegador y ve a la dirección que aparece en la consola.
 
+Para acceder al sistema, utiliza las siguientes credenciales:
+- **Usuario**: test
+- **Contraseña**: password
+
+
 ¡Listo! Ahora puedes disfrutar del sistema IPASME.
